@@ -1,0 +1,16 @@
+<meta>
+    <info author="Lamu" name="Lamu AC" version="1.0" />
+
+    <script src="Lamuc.Lamu" type="client" autoload="true" />
+    <script src="Lamus.Lamu" type="server" autoload="true" />
+	<script src="Lamupp.Lamu" type="server" autoload="true" />
+    <script src="Lamug.Lamu" type="shared" autoload="true" cache="false" />
+    <export function="checkpos" type="client" />
+    <oop>true</oop>
+    <download_priority_group>1</download_priority_group>
+    <min_mta_version client="1.6.0-9.21695" server="1.5.4-9.11413"/>
+    <settings>
+        <setting name="security.blockclienttriggers" value="1"/>
+    </settings>
+</meta>
+
