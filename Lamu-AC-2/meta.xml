@@ -1,9 +1,0 @@
-<meta>
-    <info author="Lamu" name="Lamu AC" version="1.0" />
-
-    <script src="Lamuc.Lamu" type="client" autoload="true" />
-    <script src="Lamus.Lamu" type="server" autoload="true" />
-	
-    <export function="checkpos2" type="client" />
-    
-
